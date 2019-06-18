@@ -1,7 +1,7 @@
 # ss-game
 Simon Says game using javascript, jquery and Bootstrap
 
-Purpose: Practice of jQuery, JavaScript fundamentals with some Bootstrap
+Purpose: Practice of jQuery, JavaScript for Web Development
 
 # How To Play
 
